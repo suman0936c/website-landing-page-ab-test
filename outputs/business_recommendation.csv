@@ -1,0 +1,2 @@
+assumed_monthly_traffic,observed_difference_pp,estimated_monthly_incremental_conversions,recommendation
+100000,-0.15782389853555567,-157.82389853555568,Do not ship based on this test alone; p-value exceeds 0.05 and the 95% CI includes both a modest loss and a modest gain.

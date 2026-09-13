@@ -1,0 +1,2 @@
+raw_rows,mismatched_rows,raw_duplicate_user_ids,clean_rows,clean_duplicate_user_ids,start_date,end_date,test_days
+294478,3893,3894,290584,0,2017-01-02 13:42:05.378582,2017-01-24 13:41:54.460509,22

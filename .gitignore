@@ -1,0 +1,13 @@
+# Derived/regenerable artifacts — recreate with `python analyze.py`
+outputs/ab_clean.csv
+outputs/ab_test.sqlite
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
